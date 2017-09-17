@@ -11,9 +11,18 @@
     "purescript-console": "^3.0.0",
     "purescript-aff": "^3.1.0",
     "purescript-simple-json": "^0.9.0",
-    "purescript-maybe": "^3.0.0"
+    "purescript-maybe": "^3.0.0",
+    "purescript-halogen": "^2.3.0",
+    "purescript-affjax": "^4.0.0",
+    "purescript-free": "^4.1.0",
+    "purescript-uuid": "^4.0.0",
+    "purescript-foldable-traversable": "^3.6.0",
+    "purescript-variant": "^3.2.1",
+    "purescript-markdown": "^11.0.0",
+    "purescript-markdown-halogen": "^8.0.1"
   },
   "devDependencies": {
-    "purescript-psci-support": "^3.0.0"
+    "purescript-psci-support": "^3.0.0",
+    "purescript-spec": "^1.0.0"
   }
 }
